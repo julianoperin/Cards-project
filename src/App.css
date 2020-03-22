@@ -2,6 +2,11 @@
   font-size: 44px;
 }
 
+h1 {
+  font-family: "Major Mono Display", monospace;
+  font-size: 72px;
+}
+
 body {
   background: chartreuse;
 }
